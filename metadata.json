@@ -20,23 +20,6 @@
                     "bgColor": "#ffcb3d",
                     "fgColor": "#000000"
                 }
-            },
-            {
-                "id": "2",
-                "type": "source",
-                "subtypes": ["anime"],
-                "name": "Gogoanime",
-                "version": "0.1.0",
-                "formatVersion": 1,
-                "updateUrl": "https://raw.githubusercontent.com/adolar0042/MyModule/main/module.json",
-                "general": {
-                    "author": "Inumaki",
-                    "description": "A Gogoanime module to watch anime",
-                    "lang": ["en-US"],
-                    "baseURL": "https://mymodule.com",
-                    "bgColor": "#ffcb3d",
-                    "fgColor": "#000000"
-                }
             }
         ]
     }
