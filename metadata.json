@@ -2,6 +2,7 @@
     "author": "Inumaki",
     "description": "This Repo hosts various modules for anime and manga",
     "icon": "https://wallpapers.com/images/hd/cool-anime-boy-pfp-hotaro-oreki-ejrnayvw61coeizn.jpg",
+    "title": "Repo Test",
     "modules": {
         "Video": [
             {
