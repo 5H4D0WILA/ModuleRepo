@@ -13,6 +13,7 @@
                 "version": "0.2.1",
                 "formatVersion": 1,
                 "updateUrl": "https://raw.githubusercontent.com/adolar0042/MyModule/main/module.json",
+                "icon": "https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/qe7kzhh0bo1qt9ohrxwb",
                 "general": {
                     "author": "Inumaki",
                     "description": "A module to get the data from Zoro.to",
